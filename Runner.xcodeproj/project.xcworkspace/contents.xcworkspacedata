@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MobileAppProject.xcodeproj">
+      location = "self:/Users/Boss/Desktop/MobileAppProject/Runner.xcodeproj">
    </FileRef>
 </Workspace>
